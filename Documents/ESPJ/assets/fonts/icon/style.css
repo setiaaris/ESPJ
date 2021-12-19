@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?x821dd');
+  src:  url('fonts/icomoon.eot?x821dd#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?x821dd') format('truetype'),
+    url('fonts/icomoon.woff?x821dd') format('woff'),
+    url('fonts/icomoon.svg?x821dd#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-notifications:before {
+  content: "\e912";
+  color: #8e8e8e;
+}
+.icon-profile:before {
+  content: "\e913";
+  color: #8e8e8e;
+}
+.icon-setting:before {
+  content: "\e914";
+  color: #8e8e8e;
+}
+.icon-signout:before {
+  content: "\e915";
+  color: #0e8c45;
+}
+.icon-absensi:before {
+  content: "\e900";
+  color: #e5e5e5;
+}
+.icon-absensi-file:before {
+  content: "\e901";
+  color: #0e8c45;
+}
+.icon-chevron-dropdown:before {
+  content: "\e902";
+  color: #7b7b7b;
+}
+.icon-chevron-profile:before {
+  content: "\e903";
+  color: #a1a1a1;
+}
+.icon-dashboard:before {
+  content: "\e904";
+  color: #0e8c45;
+}
+.icon-date:before {
+  content: "\e905";
+  color: #7b7b7b;
+}
+.icon-delete:before {
+  content: "\e906";
+  color: #fff;
+}
+.icon-edit:before {
+  content: "\e907";
+  color: #fff;
+}
+.icon-email:before {
+  content: "\e908";
+  color: #cdcdcd;
+}
+.icon-list:before {
+  content: "\e909";
+  color: #fff;
+}
+.icon-password:before {
+  content: "\e90a";
+  color: #cdcdcd;
+}
+.icon-search:before {
+  content: "\e90b";
+  color: #ccc;
+}
+.icon-seemore:before {
+  content: "\e90c";
+  color: #fff;
+}
+.icon-SP2D:before {
+  content: "\e90d";
+  color: #e5e5e5;
+}
+.icon-SPJ:before {
+  content: "\e90e";
+  color: #e5e5e5;
+}
+.icon-SSBP:before {
+  content: "\e90f";
+  color: #e5e5e5;
+}
+.icon-upload-absensi:before {
+  content: "\e910";
+  color: #0e8c45;
+}
+.icon-view:before {
+  content: "\e911";
+  color: #fff;
+}

@@ -1,0 +1,646 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="AFFCBEBE-86EB-40C0-BEE4-BFF965FA7112" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="51">
+    <control controlID="FDF483B4-30B0-49C4-A576-96147F3E47D9" controlTypeID="BrowserWindow" x="11" y="20" w="1070" h="572" zOrder="0">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Browser%0D%0Ahttps%3A%2F%2Fwww.rri.co.id</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9C098768-3A64-4760-A272-EDE91F412BF5" controlTypeID="Shape" x="13" y="92" w="184" h="47" zOrder="1">
+      <color>4281761705</color>
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D6F860DB-D5C3-464A-8679-63EBE1026224" controlTypeID="Shape" x="197" y="92" w="882" h="47" zOrder="2">
+      <color>4282158524</color>
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="848DF687-EB1B-45F9-A7E3-2E8C7ABCB0C1" controlTypeID="Shape" x="13" y="139" w="184" h="423" zOrder="3">
+      <color>4280429874</color>
+      <borderColor>4280429874</borderColor>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3D65195F-A594-4F3E-B9DC-98036F3576B7" controlTypeID="Image" x="27" y="148" w="43" h="43" zOrder="4">
+      <ShadowBlur>0</ShadowBlur>
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>7C4BF63ED97B63BB1DD174E5837A2003.png</URL>
+    </control>
+    <control controlID="2B3FB354-5EF0-43F0-A0A7-352536155193" controlTypeID="Label" x="80" y="154" w="34" h="15" zOrder="5">
+      <caption>Admin</caption>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Admin</text>
+      <textColor>4294967295</textColor>
+      <textSize>11</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="265D981E-C56F-4E16-B64C-9C02C5AE3DCB" controlTypeID="Circle" x="80" y="174" w="10" h="10" zOrder="6">
+      <color>4278216192</color>
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="0D6E718D-A776-45B4-8B3A-BF1A0AC436CA" controlTypeID="Label" x="94" y="173" w="21" h="11" zOrder="7">
+      <caption>Admin</caption>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>online</text>
+      <textColor>4294967295</textColor>
+      <textSize>8</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="465105D8-64EE-4C11-BF57-F427CD5B88E2" controlTypeID="Shape" x="13" y="201" w="184" h="33" zOrder="8">
+      <color>4279902758</color>
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D54364B6-F93A-4AD5-8249-E10EA3B4306E" controlTypeID="Label" x="27" y="209" w="94" h="18" zOrder="9">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Main+Navigation</text>
+      <textColor>4294967295</textColor>
+      <textSize>13</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0E92B34D-77ED-4707-842B-3C3B19F0C370" controlTypeID="Image" x="27" y="235" w="21" h="26" zOrder="10">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>9349B7870B6DCF28237CF55B04FA18CE.png</URL>
+    </control>
+    <control controlID="42C7E4AD-1241-4AFB-A603-D9121B4FDAED" controlTypeID="Label" x="58" y="241" w="47" h="14" zOrder="11">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Dashboard</text>
+      <textColor>4294967295</textColor>
+      <textSize>10</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E46B447F-B2CD-4637-81EC-A79715B4E974" controlTypeID="Shape" x="12" y="265" w="184" h="33" zOrder="12">
+      <color>4279902758</color>
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>10</radius>
+    </control>
+    <control controlID="13797113-A21A-4A98-9ACC-F9A6861A116B" controlTypeID="Image" x="29" y="271" w="21" h="21" zOrder="13">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>5FE9F9DD7C88FE58D30EC37BF7853AB0.png</URL>
+    </control>
+    <control controlID="C1CA95AA-EA00-4C29-AEDB-821E2213E451" controlTypeID="Label" x="60" y="274" w="20" h="14" zOrder="14">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>User</text>
+      <textColor>4294967295</textColor>
+      <textSize>10</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="023A565B-C1F0-43C4-8ACA-4371B7351D6A" controlTypeID="Image" x="75" y="95" w="57" h="40" zOrder="15">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>449778CFC0C63E170F40434B0D063C0C.png</URL>
+    </control>
+    <control controlID="B5E37293-FE40-4353-A578-CC49C83FC916" controlTypeID="Image" x="207" y="108" w="15" h="15" zOrder="16">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>E6DBD328EFE90BD5B928A07EA04F932D.png</URL>
+    </control>
+    <control controlID="8FADC95C-8114-4EFD-9DAC-BB7B634FFDD4" controlTypeID="Image" x="951" y="101" w="30" h="30" zOrder="17">
+      <ShadowBlur>0</ShadowBlur>
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>7C4BF63ED97B63BB1DD174E5837A2003.png</URL>
+    </control>
+    <control controlID="6997518B-8494-4980-9714-1FD446DDAE05" controlTypeID="Label" x="991" y="108" w="34" h="15" zOrder="18">
+      <caption>Admin</caption>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Admin</text>
+      <textColor>4294967295</textColor>
+      <textSize>11</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F93CDEC9-92CE-4424-B910-997A552F66E5" controlTypeID="Shape" x="197" y="139" w="882" h="423" zOrder="19">
+      <color>4293190884</color>
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C5ABAC14-ADC9-4F13-822C-5FB0DDD62EA7" controlTypeID="Label" x="207" y="145" w="40" h="27" zOrder="20">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>User</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9A480320-4899-4665-B839-DD8BE46E1024" controlTypeID="Shape" x="206" y="185" w="862" h="321" zOrder="21">
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="16C6E7C6-4BBA-45CE-9C98-50CB99950F91" controlTypeID="Shape" x="197" y="516" w="882" h="47" zOrder="22">
+      <color>4282158524</color>
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="36A25E2B-A307-4B5D-9C8B-5489E5F289C9" controlTypeID="Label" x="519" y="532" w="185" h="15" zOrder="23">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Copyright+%C2%A9+2019+.+All+rights+reserved.</text>
+      <textColor>4294967295</textColor>
+      <textSize>11</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2A6F49F7-7A38-4A49-9FAD-16A8D749D030" controlTypeID="Table" x="212" y="259" w="850" h="90" zOrder="24">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>No%09Nama%09NIK%09NPWP%09Cabang%09Jabatan%09Tlp%09Aksi%091%09Lorem+Ipsum%091234567891012131%09123456789101212%09Bandung%09LPU%09081112223345%09%092%09Dolor+Sit+Amet%091213141516171819%09908070605040323%09Bandung%09Keuangan%09082222277789%09</text>
+      <textSize>14</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <thickness>1</thickness>
+      <dashMode>SdSolid</dashMode>
+      <tableStyle>tsNone</tableStyle>
+      <fontFamily/>
+      <fontWeight>Regular</fontWeight>
+      <textStyles>[]</textStyles>
+      <cells>
+        <cell rows="0,0" cols="0,0">
+          <textHAlign>HaLeft</textHAlign>
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>No</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="1,1">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Nama</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="2,2">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>NIK</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="3,3">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>NPWP</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="4,4">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Cabang</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="5,5">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Jabatan</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="6,6">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Tlp</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="7,7">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Aksi</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="0,0">
+          <textHAlign>HaLeft</textHAlign>
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>1</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="1,1">
+          <textHAlign>HaLeft</textHAlign>
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Lorem+Ipsum</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="2,2">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>1234567891012131</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="3,3">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>123456789101212</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="4,4">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Bandung</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="5,5">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>LPU</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="6,6">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>081112223345</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="7,7">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <textHeight>12</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="0,0">
+          <textHAlign>HaLeft</textHAlign>
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>2</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="1,1">
+          <textHAlign>HaLeft</textHAlign>
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Dolor+Sit+Amet</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="2,2">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>1213141516171819</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="3,3">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>908070605040323</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="4,4">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Bandung</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="5,5">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Keuangan</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="6,6">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>082222277789</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="7,7">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <textHeight>12</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+      </cells>
+      <rows>
+        <row height="30">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="30">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="30">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+      </rows>
+      <cols>
+        <col width="46">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="140">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="126">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="108">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="101">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="87">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="104">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="138">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+      </cols>
+    </control>
+    <control controlID="1A3EE00E-1292-495E-8CAC-5DB80A647161" controlTypeID="Search" x="938" y="225" w="124" h="24" zOrder="25">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4F9DE879-2682-444F-89A3-E135AE31DF20" controlTypeID="CompositeComboBox" x="251" y="225" w="75" h="24" zOrder="26">
+      <ShadowBlur>0</ShadowBlur>
+      <groupChildrenDescriptors>
+        <control controlID="5F2FF161-8896-456A-857B-37DF8057AB72" controlTypeID="TextInput" x="0" y="0" w="52" h="24" zOrder="0">
+          <locked>True</locked>
+          <canMove>False</canMove>
+          <alias>input</alias>
+          <ShadowBlur>0</ShadowBlur>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>10</text>
+          <textSize>10</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F8F30F3E-44DF-42F7-A426-1FFAAC8F290A" controlTypeID="Button" x="51" y="0" w="24" h="24" zOrder="1">
+          <locked>True</locked>
+          <canMove>False</canMove>
+          <alias>button</alias>
+          <ShadowBlur>0</ShadowBlur>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>0</radius>
+        </control>
+        <control controlID="2EECE11D-396D-46E2-BDB2-9C21EB07F70F" controlTypeID="List" x="0" y="24" w="75" h="98" zOrder="2">
+          <isShow>False</isShow>
+          <canMove>False</canMove>
+          <alias>dropDown</alias>
+          <ShadowBlur>0</ShadowBlur>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>10%0D%0A25%0D%0A50%0D%0A100</text>
+          <textSize>10</textSize>
+          <lineSpacing>0</lineSpacing>
+          <itemHeight>24</itemHeight>
+          <interlaceColor>4294967295</interlaceColor>
+        </control>
+      </groupChildrenDescriptors>
+      <baseHeight>24</baseHeight>
+      <font family="Segoe+UI"/>
+      <textSize>10</textSize>
+    </control>
+    <control controlID="43E4AEF6-FF12-4AE3-9BC8-A7C105076903" controlTypeID="Image" x="946" y="294" w="20" h="20" zOrder="27">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>F8588C8A94AE43BA7337D05D9079CFC3.png</URL>
+    </control>
+    <control controlID="A2ED7B95-FB9C-4546-9580-66AC488A044E" controlTypeID="Image" x="984" y="294" w="20" h="20" zOrder="28">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>A90DB57B6736D0FDAEDE4FE2B23FED23.png</URL>
+    </control>
+    <control controlID="B339A02B-21AE-4CCD-8FFB-5E68EA178EBA" controlTypeID="Image" x="1025" y="294" w="20" h="20" zOrder="29">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>434FB0C34D0672C135AE14FBEE55193C.png</URL>
+    </control>
+    <control controlID="1D40C9C6-DDC2-4C06-B5C0-F995128A2742" controlTypeID="Label" x="212" y="230" w="24" h="14" zOrder="30">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Show</text>
+      <textSize>10</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CE7C393B-5ADA-4FF9-B513-5ED892A0E1BD" controlTypeID="Label" x="336" y="230" w="29" h="14" zOrder="31">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>entries</text>
+      <textSize>10</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4BD53F27-FB98-45F9-A496-3C9B821331F1" controlTypeID="Image" x="946" y="324" w="20" h="20" zOrder="32">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>F8588C8A94AE43BA7337D05D9079CFC3.png</URL>
+    </control>
+    <control controlID="A5DFC3B1-917B-476A-B7F9-13DFF5B0BE1D" controlTypeID="Image" x="984" y="324" w="20" h="20" zOrder="33">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>A90DB57B6736D0FDAEDE4FE2B23FED23.png</URL>
+    </control>
+    <control controlID="DF77A92F-24D2-4E6E-9B4C-39C6B23CD087" controlTypeID="Image" x="1025" y="324" w="20" h="20" zOrder="34">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>434FB0C34D0672C135AE14FBEE55193C.png</URL>
+    </control>
+    <control controlID="112A9E37-CD67-4646-ABDB-25CF00C546B0" controlTypeID="Image" x="235" y="269" w="14" h="12" zOrder="35">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>C403B4D9EE7B74BE971900441ACEF36F.png</URL>
+    </control>
+    <control controlID="1BFE68BB-D31E-4E5C-9AB7-7F2610D19447" controlTypeID="Image" x="346" y="269" w="14" h="12" zOrder="36">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>C403B4D9EE7B74BE971900441ACEF36F.png</URL>
+    </control>
+    <control controlID="09C86B35-170E-4098-8045-AB9F94FA4458" controlTypeID="Image" x="474" y="269" w="14" h="12" zOrder="37">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>C403B4D9EE7B74BE971900441ACEF36F.png</URL>
+    </control>
+    <control controlID="062DE74C-CA70-4113-B187-32BAB8F6D2A9" controlTypeID="Image" x="598" y="269" w="14" h="12" zOrder="38">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>C403B4D9EE7B74BE971900441ACEF36F.png</URL>
+    </control>
+    <control controlID="2F3AAC12-313F-4A72-A276-E40377E66537" controlTypeID="Image" x="705" y="269" w="14" h="12" zOrder="39">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>C403B4D9EE7B74BE971900441ACEF36F.png</URL>
+    </control>
+    <control controlID="BBC78743-2ACB-46B0-B34D-6F6819EF27BF" controlTypeID="Image" x="799" y="269" w="14" h="12" zOrder="40">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>C403B4D9EE7B74BE971900441ACEF36F.png</URL>
+    </control>
+    <control controlID="E99C3DDB-0678-4A0D-A0B5-AEC63C1C9435" controlTypeID="Image" x="884" y="269" w="14" h="12" zOrder="41">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>C403B4D9EE7B74BE971900441ACEF36F.png</URL>
+    </control>
+    <control controlID="CAE16D72-EAD8-45D0-9D75-422676F69235" controlTypeID="Label" x="212" y="355" w="118" h="14" zOrder="42">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Showing+1+to+5+of+2+entries</text>
+      <textSize>10</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5DAACD02-08CD-44B6-8993-DF1273B7F9D1" controlTypeID="ButtonBar" x="909" y="351" w="153" h="22" zOrder="43">
+      <color>4294111986</color>
+      <borderColor>4281761705</borderColor>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Previous%2C1%2CNext</text>
+      <textSize>10</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>1</selectedIndex>
+      <selectedColor>4281761705</selectedColor>
+      <selectedTextColor>4294967295</selectedTextColor>
+    </control>
+    <control controlID="F1D91D14-E5EB-462A-801D-BEC37BC8FB93" controlTypeID="Shape" x="50" y="296" w="146" h="33" zOrder="44">
+      <color>4279902758</color>
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>10</radius>
+    </control>
+    <control controlID="4DB63038-4C38-4A72-B285-8E8308CCE3D6" controlTypeID="Label" x="80" y="306" w="38" h="14" zOrder="45">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>User+Log</text>
+      <textColor>4294967295</textColor>
+      <textSize>10</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E750852D-BD8D-42F7-B9C5-68D7174B07C5" controlTypeID="Circle" x="60" y="308" w="10" h="10" zOrder="46">
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="0ADE836E-7E97-4881-B61A-92397C579776" controlTypeID="Label" x="212" y="196" w="53" h="19" zOrder="47">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>User+Log</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

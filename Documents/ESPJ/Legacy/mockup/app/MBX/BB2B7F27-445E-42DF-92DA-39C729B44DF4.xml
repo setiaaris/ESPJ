@@ -1,0 +1,93 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="BB2B7F27-445E-42DF-92DA-39C729B44DF4" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1070" measureH="572" mobileScreenScale="0">
+  <controls controlCount="10">
+    <control controlID="B8816C47-9591-4D6A-AFAB-F727C0577F12" controlTypeID="BrowserWindow" x="0" y="0" w="1070" h="572" zOrder="0">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Browser%0D%0Ahttps%3A%2F%2Fwww.example.co.id</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5E0CD360-9F8F-433F-8595-5E059E1B7117" controlTypeID="Shape" x="0" y="70" w="1068" h="474" zOrder="1">
+      <color>4282427237</color>
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AD0C34DA-DCC8-4478-97C2-5445AA496E6B" controlTypeID="Shape" x="426" y="157" w="217" h="301" zOrder="2">
+      <borderColor>4294967295</borderColor>
+      <opacity>0.300000011920929</opacity>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>20</radius>
+      <thickness>5</thickness>
+    </control>
+    <control controlID="79FC71B9-7C60-4C1F-9595-CC685F549AFC" controlTypeID="TextInput" x="473" y="293" w="157" h="24" zOrder="3">
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>username</placeHolder>
+      <radius>8</radius>
+    </control>
+    <control controlID="FFEB135A-6988-487B-B3D9-3EFA822E0C74" controlTypeID="TextInput" x="473" y="332" w="157" h="24" zOrder="4">
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>password</placeHolder>
+      <inputModel>emPassword</inputModel>
+      <radius>8</radius>
+    </control>
+    <control controlID="16375880-38C6-491A-A7BA-F89F37C83762" controlTypeID="Button" x="437" y="406" w="193" h="28" zOrder="5">
+      <color>4281566585</color>
+      <borderColor>4278226784</borderColor>
+      <borderVisible>False</borderVisible>
+      <ShadowBlur>0</ShadowBlur>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="3AB7228B-D63A-4DC9-9E1B-610444059171" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
+          <area shape="0" alt="" ID="{E07C6359-21E2-4573-B73B-079708C1C19D}" coords="(0,0,193,28)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Login</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="A99F8E36-B883-47D9-85AB-CB96CA39A66A" controlTypeID="CheckBox" x="438" y="372" w="140" h="19" zOrder="6">
+      <ShadowBlur>0</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Remember+me</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="03D24F12-133C-4C86-A1F2-205AA252D555" controlTypeID="Image" x="484" y="170" w="100" h="100" zOrder="7">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>D6991D8D9962F9F4D52B17AE9469C08A.png</URL>
+    </control>
+    <control controlID="88E0B659-92DA-4D87-BAD4-F3DC8BCF5EC8" controlTypeID="Image" x="438" y="295" w="25" h="25" zOrder="8">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>1327B1064635562D735D71356E2592D8.png</URL>
+    </control>
+    <control controlID="DE3C89BB-5CEA-43BF-8A05-E785D29CA5BF" controlTypeID="Image" x="438" y="330" w="25" h="25" zOrder="9">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>705BC460CE9FBBA5DEA9FABDE0505607.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

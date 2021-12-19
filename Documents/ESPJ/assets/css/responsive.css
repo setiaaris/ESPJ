@@ -1,0 +1,542 @@
+/*------LOGIN------*/
+@media (max-width: 1080px) {
+    .login .login-form {
+        width: 80%;
+    }
+}
+
+@media (max-width: 920px) {
+    .login .login-form {
+        width: 100%;
+    }
+    
+    .login .login-design img {
+        width: 100%;
+        left: -5px;
+    }
+}
+
+@media only screen and (max-width: 850px) and (min-width: 768px) {
+    .login .login-form .bg .text h2 {
+        font-size: 28px;
+    }
+    
+    .login .login-form .bg .md-form label {
+        top: -2px;
+        left: 30px;
+        font-size: 14px;
+    }
+    
+    .login .login-form .bg .md-form label span.icon-email {
+        top: 3px;
+        left: -30px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .login .rspv {
+        display: none;
+    }
+}
+
+@media (max-width: 420px) {
+    .login .login-form .bg .text h2 {
+        font-size: 28px;
+    }
+    
+    .login .login-form .bg .md-form label {
+        top: -2px;
+        left: 30px;
+        font-size: 14px;
+    }
+    
+    .login .login-form .bg .md-form label span.icon-email {
+        top: 3px;
+        left: -30px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 360px) {
+    .login .login-form .bg .text h2 {
+        font-size: 22px;
+    }
+    
+    .login .login-form .bg .md-form label {
+        top: -5px;
+        font-size: 12px;
+        left: 28px;
+    }
+    
+    .login .login-form .bg .md-form label span.icon-email {
+        top: 1px;
+        left: -28px;
+        font-size: 16px;
+    }
+    
+    .login .login-form .bg .md-form label span.icon-password {
+        top: -8px;
+        left: -27px;
+    }
+    
+    .login .login-form .bg .md-form input {
+        font-size: 12px;
+    }
+    
+    .login .login-form .bg .custom-checkbox label {
+        font-size: 12px;
+    }
+    
+    .custom-control-label::before {
+        top: 1px;
+    }
+    
+    .custom-control-label::after {
+        top: 1px;
+    }
+    
+    .login .login-form .bg .forgot-pass a.forgot {
+        font-size: 12px;
+    }
+    
+    .login .login-form .bg .forgot-pass {
+        height: 12px;
+    }
+    
+    .login .login-form .bg p.acc {
+        font-size: 12px;
+    }
+    
+    .login .login-form .bg .btn.btn-login {
+        font-size: 14px;
+        padding: 18px 0;
+        margin-bottom: 18px;
+    }
+}
+
+
+
+
+/*------DASHBOARD------*/
+
+/* NAVBAR */
+@media (max-width: 992px) {
+    .content-dash .container-content-dash {
+        width: 85%;
+    }
+    
+    .content-dash .menus {
+        display: block;
+    }
+    
+    .content-dash .menus .sp2d, .content-dash .menus .spj,
+    .content-dash .menus .absen {
+        margin-bottom: 30px;
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .main-nav .sidebar {
+        left: -100%;
+    }
+    
+    .main-nav .sidebar.active {
+        left: 0%;
+        width: 85%;
+        overflow-y: scroll;
+    }
+    
+    .main-nav .sidebar .logo {
+        display: none;
+    }
+    
+    .main-nav .sidebar .prof-rspv {
+        display: block;
+    }
+    
+    .main-nav .sidebar .bord-sprt {
+        margin-top: 0;
+    }
+    
+    .main-nav .sidebar .menu-bar button {
+        display: flex;
+        transition: all 300ms ease-in-out;
+        margin-bottom: 40px;
+    }
+    
+    .main-nav .sidebar .menu-bar button p {
+        opacity: 1;
+        visibility: visible;
+        color: #E5E5E5;
+    }
+    
+    .main-nav .sidebar .menu-bar button span {
+        font-size: 20px;
+        margin: auto 0;
+        transition: all 300ms ease-in-out;
+        margin: auto 10px;
+    }
+    
+    .main-nav .sidebar .menu-bar .absen span {
+        margin-left: 9px;
+    }
+    
+    .main-nav .sidebar .menu-bar .ssbp span {
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+
+    .main-nav .sidebar .menu-bar button:hover .icon-SP2D:before {
+        color: #0E8C45;
+        transition: all 300ms ease-in-out;
+    }
+
+    .main-nav .sidebar .menu-bar button:hover .icon-SPJ:before {
+        color: #0E8C45;
+        transition: all 300ms ease-in-out;
+    }
+
+    .main-nav .sidebar .menu-bar button:hover .icon-absensi:before {
+        color: #0E8C45;
+        transition: all 300ms ease-in-out;
+    }
+
+    .main-nav .sidebar .menu-bar button:hover .icon-SSBP:before {
+        color: #0E8C45;
+        transition: all 300ms ease-in-out;
+    }
+
+    .main-nav .sidebar .menu-bar button:hover p {
+        color: #0E8C45;
+        transition: all 300ms ease-in-out;
+    }
+
+    .main-nav .sidebar:hover .menu-bar button p {
+        opacity: 1;
+        visibility: visible;
+        transition: all 300ms ease-in-out;
+    }  
+    
+    .main-nav .bg-rspv {
+        display: block;
+    }
+    
+    .content-dash .container-content-dash {
+        width: 90%;
+        padding-left: 0;
+    }
+    
+    .nav-prof .nav .profile {
+        display: none;
+    }
+    
+    .nav-prof .nav .logo-rspv {
+        display: block;
+    }
+    
+    .nav-prof .nav .notifs {
+        margin: 0;
+        padding-top: 14px;
+        display: block;
+    }
+}
+
+@media (max-width: 575px) {
+    .main-nav .bg-rspv .burger.active {
+        width: 20%;
+    }
+}
+
+@media (max-width: 480px) {
+    .main-nav .bg-rspv .burger {
+        width: 70px;
+    }
+}
+
+
+@media (max-width: 400px) {
+    .main-nav .bg-rspv .burger {
+        width: 60px;
+    }
+}
+
+@media (max-width: 360px) {
+    .ftr p {
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width: 340px) {
+    .main-nav .bg-rspv .burger {
+        width: 56px;
+    }
+}
+
+
+/*------SP2D------*/
+@media only screen and (max-width: 2400px) and (min-width: 576px) {
+    .modal-dialog {
+        max-width: 73%;
+    }
+}
+
+@media only screen and (max-width: 1050px) {
+    .content-sp2d .row-menus .data-entry .btn {
+        font-size: 12px;
+        padding: 14px;
+    }
+    
+    .content-sp2d .row-menus .data-entry p {
+        font-size: 16px;
+        margin-right: 6px;
+    }
+    
+    .content-sp2d .row-menus .add-data .btn {
+        padding: 14px 24px;
+        font-size: 12px;
+    }
+    
+    .content-sp2d .row-menus .add-data .btn img {
+        width: 20px;
+    }
+}
+
+@media (max-width: 992px) {
+    .content-sp2d .container-content-sp2d {
+        width: 85%;
+    }
+}
+
+@media only screen and (max-width: 945px) and (min-width:768px) {
+    .content-sp2d .row-menus .row {
+        display: block;
+    }
+    
+    .content-sp2d .row-menus .col-md-6.left {
+        max-width: 60%;
+    }
+    
+    .content-sp2d .row-menus .col-md-6.rite {
+        max-width: 100%;
+    }
+    
+    .content-sp2d .row-menus .searchbar {
+        width: 100%;
+        margin: auto 0;
+    }
+}
+
+@media only screen and (max-width: 892px) and (min-width:768px) {
+    .content-sp2d .row-menus .add-data .btn {
+        text-align: left;
+        vertical-align: middle;
+        display: flex;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width: 820px) and (min-width: 576px) {
+    .modal-dialog {
+        max-width: 95%;
+    }
+}
+
+@media (max-width: 768px) {
+    .content-sp2d .container-content-sp2d {
+        width: 90%;
+        padding-left: 0;
+    }
+    
+    .content-sp2d .row-menus .col-md-6.rite {
+        display: flex;
+        align-items: center;
+        justify-content: left;
+        position: relative;
+    }
+    
+    .content-sp2d .row-menus .col-md-6.rite .add-data {
+        position: absolute;
+        right: 8px;
+    }
+    
+    .main-nav .modal .modal-body .md-form.pickdate.rspv {
+        margin-top: 40px;
+        margin-bottom: 0;
+    }
+    
+    .main-nav .modal .modal-body .kback .frst .md-form.pickdate {
+        width: 100%;
+        margin-right: 56px;
+    }
+}
+
+@media (max-width: 575px) {
+    .content-sp2d .row-menus .searchbar form label {
+        bottom: -70px;
+    }
+    
+    .content-sp2d .row-menus .data-entry .btn {
+        margin-right: 10px !important;
+    }
+    
+    .main-nav .modal .modal-body .wrapper-pgol .pgol .btn {
+        margin-top: 22px;
+    }
+    
+    .main-nav .modal .modal-body .kback .frst {
+        margin-right: auto;
+        display: block;
+    }
+    
+    .main-nav .modal .modal-body .kback .frst .md-form.pickdate:nth-child(2) {
+        margin-top: 60px;
+    }
+    
+    .main-nav .modal .modal-body .kback .frst .md-form.pickdate {
+        width: 95%;
+        margin: auto;
+        float: left;
+    }
+    
+    .main-nav .modal .modal-body .wrapper-pgol .pgol .btn {
+        padding: 13px 110px 13px 13px;
+        width: 100%;
+    }
+    
+    .main-nav .modal .modal-body .md-form.pickdate {
+        width: 95%;
+    }
+}
+
+@media (max-width: 400px) {
+    .content-sp2d .row-menus .col-md-6.rite .add-data {
+        position: unset;
+        right: auto;
+    }
+    
+    .content-sp2d .row-menus .col-md-6.rite {
+        display: block;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .content-sp2d .tab-sp2d {
+        margin-top: 26px;
+    }
+    
+    .content-sp2d .row-menus .col-md-6.rite .add-data {
+        width: 100%;
+        justify-content: end;
+        margin-top: 14px;
+    }
+    
+    .content-sp2d .row-menus .add-data .btn {
+        padding: 14px 22px;
+        float: right;
+    }
+    
+    .modal-footer {
+        display: grid;
+    }
+}
+
+/*------ SPJ ------*/
+@media (max-width: 768px) {
+    #SPJ .sidebar .menu-bar .signactive {
+        top: 139px;
+    }
+    
+    #Absen .sidebar .menu-bar button.absen p {
+        color: #0e8c45;
+        transition: all 300ms ease-in-out;
+    }
+    
+    #Absen .sidebar .menu-bar .signactive {
+        top: 202px;
+    }
+}
+
+
+/*------ ABSENSI ------*/
+@media (max-width: 768px) {
+    #Absen .glry-card .card-abs {
+        margin-top: 40px;
+    }
+    
+    #Absen .glry-card {
+        margin-top: 0;
+    }
+    
+    #Absen .mar-tp {
+        margin-top: 0;
+    }
+}
+
+@media (max-width:600px) {
+    #Absen .wrapper-btn-abs {
+        text-align: center;
+        display: block;
+        justify-content: center;
+    }
+    
+    #Absen .wrapper-btn-abs .detail {
+        margin: auto;
+        text-align: center;
+    }
+    
+    #Absen .wrapper-btn-abs .btn-imp {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        margin-top: 12px;
+        margin-bottom: 8px;
+    }
+    
+    #Absen .wrapper-btn-abs .import {
+        padding: 14px 62px;
+    }
+    
+    #Absen .wrapper-btn-abs .upload {
+        padding: 14px 62px;
+    }
+    
+    #Absen .imgdisplay svg {
+        width: 180px !important;
+    }
+    
+    #Absen .imgdetail {
+        margin-top: 4px;
+        margin-bottom: 20px;
+    }
+}
+
+/*------ DATA SSBP ------*/
+@media (max-width: 768px) {
+    #SSBP .sidebar .menu-bar .signactive {
+        top: 265px;
+        transition: all 300ms ease-in-out;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

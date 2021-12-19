@@ -1,0 +1,441 @@
+﻿<project version="2.9" name="baru" ID="2823FC6F-D59B-48C4-A010-FD3645E0C189">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1100,6000)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Login" ID="BB2B7F27-445E-42DF-92DA-39C729B44DF4" expanded="True" code="38puh6wPXn" thumbCode="38puh6wPXn" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="1327B1064635562D735D71356E2592D8.png"/>
+        <image key="705BC460CE9FBBA5DEA9FABDE0505607.png"/>
+      </images>
+    </page>
+    <page name="Dashboard" ID="3AB7228B-D63A-4DC9-9E1B-610444059171" expanded="True" code="X5oLHR7tN1" thumbCode="X5oLHR7tN1" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="CF6028859EFB04DB2022784DE2D15BC9.svg"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="31377E185C9E33DAB29C7EA7EEF61396.png"/>
+        <image key="6DBC005209EED3C637FBB651EAEA98A3.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="94643768BE1C6E90AD7D1452D64948D9.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="SP2D" ID="D5369F08-80C3-477D-8D69-D4D7D8B3241D" expanded="True" code="jNZFl4u9QI" thumbCode="jNZFl4u9QI" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="49DA85CCB37E66216EC86D7250867E5E.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+        <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+        <image key="F8588C8A94AE43BA7337D05D9079CFC3.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="SP2D (Tambah Data)" ID="AF33337C-371F-44DB-A983-706DAFEFD146" expanded="True" code="befyRsiCqR" thumbCode="befyRsiCqR" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="SP2D (View Data)" ID="124B53C3-4B16-4EB6-97F5-EF08AADA4CC1" expanded="True" code="W81I5buLdZ" thumbCode="W81I5buLdZ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="SP2D (Edit Data)" ID="0E125C60-0EE7-4336-A75B-44DDBD983D43" expanded="True" code="VhI91AMeIq" thumbCode="VhI91AMeIq" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="SPJ" ID="453C4A1C-57C2-4D5F-9998-123FF07E17EB" expanded="True" code="hfUSWgdayv" thumbCode="hfUSWgdayv" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="49DA85CCB37E66216EC86D7250867E5E.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+        <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+        <image key="F8588C8A94AE43BA7337D05D9079CFC3.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="SPJ (Tambah Data)" ID="6F1EF8EA-FEA3-46A8-B715-C8C5AF2DB1AA" expanded="True" code="gHOQOUJzra" thumbCode="gHOQOUJzra" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="49DA85CCB37E66216EC86D7250867E5E.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="SPJ (Edit Data)" ID="B1C99DE2-5F43-4846-904E-B664FA279180" expanded="True" code="CXwG1BW3QJ" thumbCode="CXwG1BW3QJ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+        <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="SPJ (View Data)" ID="8DB2138A-EC85-4CCF-AF17-63C2DCBC3114" expanded="True" code="Hlg6umGJDV" thumbCode="Hlg6umGJDV" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="Absensi" ID="5FFD2D72-BEDD-40C9-90E4-582C9977C038" expanded="True" code="lf3IqLkfdm" thumbCode="lf3IqLkfdm" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+      </images>
+    </page>
+    <page name="Data SSBP" ID="FDF8AC00-D7CC-4FD8-A669-22BD36B50A47" expanded="False" code="jC9oNCGHE2" thumbCode="NJjgH5dW6p" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="Page" ID="272F6738-3F98-4A31-9FE9-9194D922A561" expanded="False" code="WLAX5IxwLN" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page" ID="D0CB6824-E1BF-4611-84E5-C5D1D422B03C" expanded="False" code="9C9tizIth5" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Edit Data" ID="3E2FBBA6-85E9-41E5-B98F-790E383A69F8" expanded="False" code="vOvA94aybC" thumbCode="7kN6jI91f8" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="2037BCE7899AF498F4A00DD523875B80.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="804FF2A4E3D16E295873BDD381D2968A.png"/>
+      </images>
+    </page>
+    <page name="Dashboard" ID="A84CF195-A5C2-4CD1-ACFD-023FAB340A08" expanded="True" code="EIZKqintMO" thumbCode="rjpzAtMb6p" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="753A08E75558BA7AE0DC468401A4934B.png"/>
+        <image key="CF6028859EFB04DB2022784DE2D15BC9.svg"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="B3C77FFFF0EEF0089B8F239FF542B1D5.png"/>
+        <image key="E9842F8FB422C21EEDD72E3B05C58D55.png"/>
+        <image key="5083A385E048ADD8B5BB0090F1ACB11A.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="605C3DEFCF3086DC7136CFE0CF361800.png"/>
+      </images>
+    </page>
+    <page name="Dashboard" ID="771C99B5-0830-4F82-8B0C-745D0E354415" expanded="True" code="WyupKMi9oG" thumbCode="ROI5WCk1gN" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="753A08E75558BA7AE0DC468401A4934B.png"/>
+        <image key="CF6028859EFB04DB2022784DE2D15BC9.svg"/>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="E9842F8FB422C21EEDD72E3B05C58D55.png"/>
+        <image key="5083A385E048ADD8B5BB0090F1ACB11A.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="605C3DEFCF3086DC7136CFE0CF361800.png"/>
+      </images>
+    </page>
+    <page name="View Data" ID="C87199A4-7154-415B-B306-6FA1F75ED1CE" expanded="True" code="Cx6PX4gAD7" thumbCode="iRkNHy1TVk" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="Tambah Data" ID="ED42AA82-E57A-4B82-B25F-E461A06AE103" expanded="False" code="1GXV9R761V" thumbCode="9A83pSOxSk" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="SPJ" ID="EE56B7F3-EC23-43A1-AEF2-B3D328ACB2AE" expanded="True" code="YSiSFZxrjq" thumbCode="ldqH5sJFaG" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="SP2D (Hapus Data)" ID="DC1299F7-B685-4F4F-9231-E3DE53209AB9" expanded="True" code="lfSq6v8xh5" thumbCode="sLAVfcftpc" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+        <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+        <image key="F8588C8A94AE43BA7337D05D9079CFC3.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="SPJ (View Data)" ID="DF63986A-DD3A-4F9C-84A4-40BB1471E095" expanded="False" code="ggiIlrzq3p" thumbCode="UyvedfilTC" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="SPK" ID="7A807AF6-5F0B-4545-B05D-8D85D1AD3035" expanded="True" code="IY3JubFVHT" thumbCode="h8Z9s2ZjSQ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+        <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+        <image key="F8588C8A94AE43BA7337D05D9079CFC3.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="Tambah Data (Head SPK)" ID="DB4646D2-B839-4DC1-BF5B-C11C4B67AE7B" expanded="False" code="pkhzD1XYbd" thumbCode="XAbFnQklcz" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+      </images>
+    </page>
+    <page name="Tambah Data (Detail SPK)" ID="FD4D2671-3C82-4C49-AD68-6D9083515737" expanded="True" code="NxNhVQpbvn" thumbCode="ebqecNrBm5" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+      </images>
+    </page>
+    <page name="View Data" ID="B320CB3A-7647-4BCC-8647-0E7913117B94" expanded="True" code="wzNTCTxqKc" thumbCode="IB39gtJ7wT" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+      </images>
+    </page>
+    <page name="Cabang" ID="A5732E02-7673-4C44-9F9D-F78F9A44F8D7" expanded="False" code="mGnjgvjeTw" thumbCode="bg2UEYWAcf" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+        <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+        <image key="F8588C8A94AE43BA7337D05D9079CFC3.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="Tambah Data" ID="6A1F5483-7090-4556-A3A1-44EE88C614B8" expanded="True" code="od44pHYaFc" thumbCode="YjtChr8FBO" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="Edit Data" ID="1DDB2562-9752-41C2-A1D4-349A0C8BFF34" expanded="True" code="q1LNzdNX1H" thumbCode="VS7NEEONKT" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="Hapus Data" ID="C8F1002F-5C3C-43AF-8060-D20DD039C60B" expanded="False" code="sObhAyCUlv" thumbCode="7u4nE9G9ac" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49DA85CCB37E66216EC86D7250867E5E.png"/>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+        <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+        <image key="F8588C8A94AE43BA7337D05D9079CFC3.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="Jabatan" ID="4D7BB54B-C9DE-44E0-B4C1-82B1EE61CEB1" expanded="False" code="xbE6iyrdaF" thumbCode="YTAcF2Gqmq" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+        <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+        <image key="F8588C8A94AE43BA7337D05D9079CFC3.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="Tambah Data" ID="F5047BB7-47D2-475E-AF1D-FDBAAB6171ED" expanded="False" code="zyUPrLgaMt" thumbCode="nKOzCvqvaw" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="Edit Data" ID="3BCFBCB1-8445-4C3E-9412-82A3C081B741" expanded="False" code="4C6nQLMjAE" thumbCode="xfsR5hDHW7" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+    <page name="Hapus Data" ID="ACA06A30-0BE5-4446-A948-C4949CA7D9A1" expanded="False" code="8OiCyL1tyX" thumbCode="m9pD73XiwK" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="49DA85CCB37E66216EC86D7250867E5E.png"/>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+        <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+        <image key="F8588C8A94AE43BA7337D05D9079CFC3.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="Hapus Data" ID="BA4F8673-043B-4626-8378-4A91288219A8" expanded="True" code="TT9bSplGsc" thumbCode="ioUbBpSlXw" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="C403B4D9EE7B74BE971900441ACEF36F.png"/>
+        <image key="49DA85CCB37E66216EC86D7250867E5E.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+        <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+        <image key="F8588C8A94AE43BA7337D05D9079CFC3.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="User Log" ID="AFFCBEBE-86EB-40C0-BEE4-BFF965FA7112" expanded="False" code="AHaOymJcl4" thumbCode="UN8UaEGvcu" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="C403B4D9EE7B74BE971900441ACEF36F.png"/>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+        <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+        <image key="F8588C8A94AE43BA7337D05D9079CFC3.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+      </images>
+    </page>
+    <page name="Absensias" ID="B0C94996-D0BD-41E7-82F9-D76841DB3012" expanded="True" code="FbvXgTaoRz" thumbCode="CcmYiRbwQe" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+        <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+        <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+        <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+        <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+        <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+        <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="C403B4D9EE7B74BE971900441ACEF36F.png"/>
+    <image key="49DA85CCB37E66216EC86D7250867E5E.png"/>
+    <image key="6DBC005209EED3C637FBB651EAEA98A3.png"/>
+    <image key="753A08E75558BA7AE0DC468401A4934B.png"/>
+    <image key="705BC460CE9FBBA5DEA9FABDE0505607.png"/>
+    <image key="E9842F8FB422C21EEDD72E3B05C58D55.png"/>
+    <image key="434FB0C34D0672C135AE14FBEE55193C.png"/>
+    <image key="94643768BE1C6E90AD7D1452D64948D9.png"/>
+    <image key="9349B7870B6DCF28237CF55B04FA18CE.png"/>
+    <image key="F8588C8A94AE43BA7337D05D9079CFC3.png"/>
+    <image key="CF6028859EFB04DB2022784DE2D15BC9.svg"/>
+    <image key="31377E185C9E33DAB29C7EA7EEF61396.png"/>
+    <image key="E6DBD328EFE90BD5B928A07EA04F932D.png"/>
+    <image key="449778CFC0C63E170F40434B0D063C0C.png"/>
+    <image key="929913950FD4B9D09AB6115A4EE76D25.png"/>
+    <image key="804FF2A4E3D16E295873BDD381D2968A.png"/>
+    <image key="A90DB57B6736D0FDAEDE4FE2B23FED23.png"/>
+    <image key="605C3DEFCF3086DC7136CFE0CF361800.png"/>
+    <image key="D6991D8D9962F9F4D52B17AE9469C08A.png"/>
+    <image key="7C4BF63ED97B63BB1DD174E5837A2003.png"/>
+    <image key="5FE9F9DD7C88FE58D30EC37BF7853AB0.png"/>
+    <image key="2037BCE7899AF498F4A00DD523875B80.png"/>
+    <image key="1327B1064635562D735D71356E2592D8.png"/>
+    <image key="B3C77FFFF0EEF0089B8F239FF542B1D5.png"/>
+    <image key="05A54071DC31135EDEE03A323C8B5C97.png"/>
+    <image key="5083A385E048ADD8B5BB0090F1ACB11A.png"/>
+    <image key="7496B117D96B3F34041C8820DC16CB86.png"/>
+  </images>
+</project>
